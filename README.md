@@ -13,7 +13,7 @@ For this example, use composer
 
 The content of this repository is a result of the previous steps.
 
-Este ejemplo esta basado en el ejemplo de webeasystep.com:
+This example is based on the example of webeasystep.com:
 http://webeasystep.com/blog/view_article/paypal_payment_gateway_integration_in_codeigniter
 
 
